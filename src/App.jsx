@@ -7,6 +7,7 @@ function App(){
   return <center>
     <Heading></Heading>
     <Slogan></Slogan>
+    <h1>Anjali Pandey ke Saiya Super Star 🌸</h1>
     <TimeDisplay></TimeDisplay>
    
   </center>
